@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Vision impairment due to age-related macular degeneration in the Global Burden of Disease Study 2023: analysis code"
+type: software
+abstract: >-
+  Python code that reproduces the tables and figures of a study of vision
+  impairment due to age-related macular degeneration based on the Global
+  Burden of Disease Study (GBD) 2023. It quantifies how GBD 2023 revised the
+  GBD 2021 estimates, checks the internal consistency of a published GBD
+  2021-based projection, projects the number of people affected to 2050 at
+  constant 2023 rates, and describes trends from 1990 to 2023. GBD estimates
+  are not redistributed; the data guide gives the exact GBD Results Tool
+  settings for every input file.
+authors:
+  - family-names: Bousamri
+    given-names: Abdullah
+    orcid: "https://orcid.org/0009-0005-7190-698X"
+    affiliation: "Jordan University of Science and Technology"
+version: "1.0.0"
+license: MIT
+keywords:
+  - age-related macular degeneration
+  - vision impairment
+  - Global Burden of Disease
+  - projection
